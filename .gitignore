@@ -1,4 +1,6 @@
 *
 !Dockerfile
 !Makefile
+!rootfs/
+!rootfs/**
 !youtube-dl
